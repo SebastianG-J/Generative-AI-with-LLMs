@@ -4,7 +4,7 @@ This repository includes the individual exam assignments and the final project f
 
 ## 📂 Assignments
 
-You’ll find all exam assignments in the [Assignments](Assignments/) folder.
+You’ll find the code for all exam assignments in the [Assignments](Assignments/) folder.
 
 ## 📁 GAI Project
 
